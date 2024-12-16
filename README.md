@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub Profile
 
-<!--
-**Min-thike-kyaw/Min-thike-kyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+Hi! I'm **Min Thike Kyaw**, a passionate **Software Developer** who loves exploring new technologies and building innovative solutions. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **AI, blockchain**
+- 🎯 Goals: **Contributing open source**
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages:
+- **PHP** 🖥️
+- **Solidity** 🖥️
+- **Python** 🐍
+- **JavaScript** 🌐
+- **PHP** 🖥️
+
+### Frameworks & Libraries:
+- **React** ⚛️
+- **Laravel** 🛠️
+- **Node.js** 🌲
+
+---
+
+## 📫 Let's Connect
+
+- Email: [minthike.mtk.710@gmail.com](mailto:minthike.mtk.710@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/min-thike-kyaw/](https://www.linkedin.com/in/min-thike-kyaw/)
+- Portfolio: [Min Thike Kyaw](https://min-thike-kyaw.github.io/my-portfolio)
+
+---
+
+### ⭐ Thank You!
+
+Thank you for visiting my profile! If you like what you see, consider following me or starring one of my repositories. 😊
+
+
