@@ -16,7 +16,6 @@ Hi! I'm **Min Thike Kyaw**, a passionate **Software Developer** who loves explor
 - **Solidity** 🖥️
 - **Python** 🐍
 - **JavaScript** 🌐
-- **PHP** 🖥️
 
 ### Frameworks & Libraries:
 - **React** ⚛️
