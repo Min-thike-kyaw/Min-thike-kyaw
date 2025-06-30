@@ -24,6 +24,7 @@ Hi! I'm **Min Thike Kyaw**, a passionate **Software Developer** who loves explor
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Min-thike-kyaw&layout=compact&theme=blue-green)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Min-thike-kyaw&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
 
 ---
 
